@@ -1,7 +1,12 @@
 @font-face {
-  font-family: 'Raleway';
+  font-family: 'Lusitana';
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
-  src: url(../fonts/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf) format('truetype');
+  src: url(../fonts/CSR84z9ShvucWzsMKyhdTOc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lusitana';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/CSR74z9ShvucWzsMKyDmafctaNM.ttf) format('truetype');
 }
